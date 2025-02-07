@@ -1,4 +1,4 @@
 ini adalah readme
 
 
-ini nambahin dari branch-temen
+ini nambahin dari branch-rizal
